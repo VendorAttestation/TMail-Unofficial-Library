@@ -10,7 +10,7 @@ namespace TMail_Unofficial_Library
         {
             try
             {
-                HttpResponseMessage result = await client.HttpClient.Send("email/null");
+                HttpResponseMessage result = await client.HttpClient.Send("email/sdrgsedgsdfg");
                 return await result.Content.ReadAsStringAsync();
             }
             catch (Exception ex)

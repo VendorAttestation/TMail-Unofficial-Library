@@ -6,20 +6,20 @@
     <GenerateAssemblyInfo>false</GenerateAssemblyInfo>
     <AssemblyTitle>TMail Unofficial Library</AssemblyTitle>
     <Product>TMail Unofficial Library</Product>
-    <Copyright>Copyright © TheVisual 2024</Copyright>
+    <Copyright>Copyright © VendorAttestation 2024</Copyright>
     <AssemblyVersion>1.0.0.0</AssemblyVersion>
     <FileVersion>1.0.0.0</FileVersion>
-    <Version>1.0.1</Version>
+    <Version>1.0.2</Version>
     <PackageId>TMail.API</PackageId>
-    <PackageIcon>c1bd4448-05fa-490b-b88d-b8dc35b58671.jpg</PackageIcon>
-    <PackageProjectUrl>https://github.com/TheVisual/TMail-Unofficial-Library</PackageProjectUrl>
+    <PackageIcon>icon.jpg</PackageIcon>
+    <PackageProjectUrl>https://github.com/VendorAttestation/TMail-Unofficial-Library</PackageProjectUrl>
     <RepositoryUrl>https://github.com/TheVisual/TMail-Unofficial-Library</RepositoryUrl>
     <RepositoryType>git</RepositoryType>
-    <Company>TheVisual</Company>
-    <Authors>TheVisual</Authors>
+    <Company>VendorAttestation</Company>
+    <Authors>VendorAttestation</Authors>
   </PropertyGroup>
   <ItemGroup>
-    <None Include="..\..\..\..\Pictures\c1bd4448-05fa-490b-b88d-b8dc35b58671.jpg">
+    <None Include="..\..\..\..\Pictures\icon.jpg">
       <Pack>True</Pack>
       <PackagePath>\</PackagePath>
     </None>
